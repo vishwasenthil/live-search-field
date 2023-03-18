@@ -5,7 +5,7 @@ a user enters a word into a textbox and the program will search a predefined arr
 
 # next steps
 - add button functionality
-- work on substrig matches
+- work on substring matches
 
 # what i learned
 i learned a lot about the useState hook in react through this project as state is used to update the number of results found onscreen
